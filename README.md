@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
 </div>
  
-<h4>:woman_technologist: <b>About Me :</b></h4>
+<h3>:woman_technologist: <b>About Me :</b></h3>
 
 - 📚 I'm a graduate in <b>Bachelor in Computer Application (BCA)</b> from <b>Indira Gandhi National Open University (IGNOU)</b>, <i>New Delhi, India</i>.
 
@@ -20,17 +20,17 @@
 
 - 📫 <b><i>How to reach me:</b></i>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashadas/)
 
-- ⚡ Fun fact: - I can speak and read korean at an intermediate level. I love listening to music and riding bicycle. 
+- ⚡ Fun fact: - I can speak and read korean at an intermediate level. I <b>love</b> <i>listening</i> to music 🎵 and <i>riding</i> bicycle 🚴‍♀️. 
 
 
-<h4>:hammer_and_wrench:<b>Languages and Tools :</b></h4>
+<h3>:hammer_and_wrench:<b>Languages and Tools :</b></h3>
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; 
 </div>
 
-<h4>:fire: <b>My Stats :</b></h4>
+<h3>:fire: <b>My Stats :</b></h3>
 
 ![Yasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashaDas&theme=onedark&show_icons=true)
 
