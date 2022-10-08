@@ -27,7 +27,7 @@
 <h3>:hammer_and_wrench:<b>Languages and Tools :</b></h3>
 
 <div>
- <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL"/>
+ <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL"/>
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"/>
 </div>
 
