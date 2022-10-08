@@ -5,7 +5,7 @@
   Welcome to my GitHub Profile! 👧
 </h2>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=YashaDase&style=flat-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=YashaDase&style=flat-round&color=green" alt=""/>
  </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
@@ -21,7 +21,7 @@
 
 - 📫 <b><i>How to reach me:</b></i>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashadas/)
 
-- ⚡ <u>Fun fact:</u> I can speak and read korean at an intermediate level. I <b>love</b> <i>listening</i> to music 🎵 and <i>riding</i> bicycle 🚴‍♀️. 
+- ⚡ <b>Fun fact:</b> I can speak and read korean at an intermediate level. I <b>love</b> <i>listening</i> to music 🎵 and <i>riding</i> bicycle 🚴‍♀️. 
 
 
 <h3>:hammer_and_wrench:<b>Languages and Tools :</b></h3>
