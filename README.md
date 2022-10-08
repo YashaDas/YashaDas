@@ -13,7 +13,7 @@
  
 <h3>:woman_technologist: <b>About Me :</b></h3>
 
-- 📚 I'm a graduate of <b>Bachelor of Computer Application (BCA)</b> from <b>Indira Gandhi National Open University (IGNOU)</b>, <i>New Delhi, India</i>.
+- 📚 I'm a graduate in <b>Bachelor of Computer Application (BCA)</b> from <b>Indira Gandhi National Open University (IGNOU)</b>, <i>New Delhi, India</i>.
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a <b><i>Data Scientist Enthusiast</b></i>. 
 
