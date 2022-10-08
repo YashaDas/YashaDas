@@ -28,7 +28,7 @@
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 <h3>:fire: <b>My Stats :</b></h3>
