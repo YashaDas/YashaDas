@@ -1,8 +1,9 @@
 <h1>
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I am Yasha Das
+  I am Yasha Das 👧
 </h1>
+<h2>Welcome to my GitHub Profile! 😸</h2>
 <div>
   <img src="https://komarev.com/ghpvc/?username=YashaDase&style=flat-square&color=green" alt=""/>
  </div>
