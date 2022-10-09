@@ -15,7 +15,7 @@
 
 - 📚 I'm a graduate in <b>Bachelor of Computer Application (BCA)</b> from <b>Indira Gandhi National Open University (IGNOU)</b>, <i>New Delhi, India</i>.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a <b><i>Data Scientist Enthusiast</b></i>. 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a <b><i>Data Science & Data Analysis Enthusiast</b></i>. 
 
 - 🌱 I’m currently learning <b>Data Science</b>.
 
