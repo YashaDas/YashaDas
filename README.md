@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashaDas&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yashaxdas)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=round&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yashaxdas)
 <!--
 **YashaDas/YashaDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
