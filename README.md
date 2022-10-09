@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning <b>Data Science</b>.
 
-- 📫 <b><i>How to reach me:</b></i>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashadas/)
+- 📫 <b><i>How to reach me: </b></i>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashadas/)
 
 - ⚡ <b>Fun fact:</b> I can speak and read korean at an intermediate level. I <b>love</b> <i>listening</i> to music 🎵 and <i>riding</i> bicycle 🚴‍♀️. 
 
